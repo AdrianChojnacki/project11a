@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+div {
+  font-family: arial;
+  font-size: 50px;
+  line-height: 100vh;
+  text-align: center;
+}
+
+span {
+  font-family: monospace;
+  font-weight: bold;
+}
